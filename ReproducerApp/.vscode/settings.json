@@ -1,0 +1,10 @@
+{
+    "eslint.useFlatConfig": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.detectIndentation": false, //auto detect tab size
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true, //enable indentation using space
+    "prettier.useTabs": false
+  }
+  
